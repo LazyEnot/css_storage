@@ -36,13 +36,13 @@ font-style: normal;
 @font-face {
 font-family: 'Proxima Nova';
 src: url('ProximaNova-Bold.woff') format('woff');
-font-weight: 800;
+font-weight: 700;
 font-style: normal;
 }
 
 @font-face {
 font-family: 'Proxima Nova';
 src: url('ProximaNova-Extrabld.woff') format('woff');
-font-weight: 700;
+font-weight: 800;
 font-style: normal;
 }
